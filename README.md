@@ -41,12 +41,6 @@
 ---
 
 <img align="left" alt="AryanFelix's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AryanFelix&show_icons=true&hide_border=true&theme=dracula" />
-<br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanFelix)](https://github.com/AryanFelix)
