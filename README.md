@@ -36,6 +36,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AI - Future of Workplace](https://www.peoplehum.com/blog/artificial-intelligence-future-of-workplace-aryan-felix/)
+- [The New Normal: Here’s why there’s nothing Normal about it](https://www.peoplehum.com/blog/the-new-normal-heres-why-theres-nothing-normal-about-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
