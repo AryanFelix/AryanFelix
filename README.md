@@ -53,3 +53,4 @@
 [instagram]: https://www.instagram.com/aryanfelix/
 [linkedin]: https://www.linkedin.com/in/aryan-felix-815a42193/
 [github]: https://github.com/AryanFelix
+[DEV]: https://dev.to/aryanfelix
