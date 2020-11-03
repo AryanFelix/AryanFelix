@@ -13,7 +13,7 @@
 [<img align="left" alt="AryanFelix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="AryanFelix | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="AryanFelix | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
-[![DEV](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =22x)](https://dev.to/aryanfelix) 
+[<img align="left" alt="AryanFelix | DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][DEV] 
 <br>
 
 ### Languages and Tools:
