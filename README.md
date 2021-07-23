@@ -1,10 +1,10 @@
 # Hi there, I'm Aryan 👋
 
 ## I'm a Full Stack Web Developer and Machine Learning Enthusiast!
-- 🔭 I’m currently working on a couple websites!
+- 🔭 I’m currently working on a couple websites and ML projects!
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and watch movies!
 <br>
 
@@ -43,6 +43,8 @@
 ---
 
 <img align="left" alt="AryanFelix's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AryanFelix&show_icons=true&hide_border=true&theme=dracula" />
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanFelix&show_icons=true&theme=dracula)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanFelix)](https://github.com/AryanFelix)
