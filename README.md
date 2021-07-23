@@ -42,11 +42,13 @@
 
 ---
 
-<img align="right" alt="AryanFelix's Github Stats" src="https://analyticsindiamag.com/wp-content/uploads/2019/04/giphy-7.gif" />
-
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanFelix&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanFelix)](https://github.com/AryanFelix)
+<img align="right" alt="AryanFelix's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanFelix" />
+
+<img align="left" alt="AryanFelix's Github Stats" src="https://analyticsindiamag.com/wp-content/uploads/2019/04/giphy-7.gif" />
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanFelix)](https://github.com/AryanFelix) -->
 
 
 
