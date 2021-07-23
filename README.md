@@ -8,6 +8,8 @@
 - ⚡ Fun fact: I love to draw and watch movies!
 <br>
 
+<img align="right" alt="AryanFelix's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanFelix" />
+
 ### Connect with me:
 
 [<img align="left" alt="AryanFelix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
@@ -43,8 +45,6 @@
 ---
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanFelix&show_icons=true&theme=dracula)
-
-<img align="right" alt="AryanFelix's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanFelix" />
 
 <img align="left" alt="AryanFelix's Github Stats" src="https://analyticsindiamag.com/wp-content/uploads/2019/04/giphy-7.gif" />
 
