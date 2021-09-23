@@ -9,12 +9,14 @@
 
 <img align="right" alt="AryanFelix's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanFelix" />
 
-### Connect with me:
+
+### Connect With Me
 
 [<img align="left" alt="AryanFelix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="AryanFelix | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="AryanFelix | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 [<img align="left" alt="AryanFelix | DEV" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][DEV] 
+<br>
 <br>
 
 ### Languages and Tools:
@@ -37,7 +39,8 @@ TensorFlow • NumPy • Pandas
 VS Code • Sublime • 
 Jupyter • Google Colab
 <br>
-<br>
+
+
 
 ### 📕 Blog Posts
 
