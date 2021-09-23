@@ -1,8 +1,7 @@
 # Hi there, I'm Aryan 👋
 
-## I'm a Full Stack Web Developer and Machine Learning Enthusiast!
+## Machine Learning. Data Science. Web Development.
 - 🔭 I’m currently working on a couple websites and ML projects!
-- 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and watch movies!
