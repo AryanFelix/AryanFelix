@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanFelix" align="center" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Antonia_Sautter_Creations.png/120px-Antonia_Sautter_Creations.png" align="center" width="50"/>
-  <img src="https://analyticsindiamag.com/wp-content/uploads/2019/04/giphy-7.gif" align="center"/> 
+  <img src="https://analyticsindiamag.com/wp-content/uploads/2019/04/giphy-7.gif" align="center" width="400"/> 
 </p>
 <br>
 
